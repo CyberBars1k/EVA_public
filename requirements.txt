@@ -1,0 +1,7 @@
+SpeechRecognition
+openai
+requests
+dnevniklib
+pyowm
+PyAudio
+selenium
